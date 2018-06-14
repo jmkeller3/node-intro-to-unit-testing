@@ -1,3 +1,6 @@
+// import chai, declare expect variable
+const expect = require('chai').expect;
+
 //import fizz-buzz
 const fizzBuzzer = require('../fizzBuzzer');
 
